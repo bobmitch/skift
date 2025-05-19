@@ -22,12 +22,12 @@
 
 ## Key Features
 
-- [**Karm**](src/libs): A modern C++ core library providing foundational building blocks.
+- [**Karm**](https://github.com/skift-org/karm): A modern C++ core library providing foundational building blocks.
 - [**KarmUI**](src/libs/karm-ui/): A reactive UI framework for building elegant user interfaces.
-- [**Hideo**](src/apps): A beautiful desktop environment prioritizing intuitive design.
+- [**Hideo**](https://github.com/skift-org/hideo): A beautiful desktop environment prioritizing intuitive design.
 - [**Hjert**](src/kernel): A capability-based "pragmatic" microkernel.
 - [**CuteKit**](https://github.com/cute-engineering/cutekit): A versatile build system and package manager designed for cross-compilation and complex project management.
-- [**Vaev**](src/web): A browser engine built for speed, accuracy, and simplicity.
+- [**Vaev**](https://github.com/skift-org/vaev): A browser engine built for speed, accuracy, and simplicity.
 
 ## Core Philosophy
 
